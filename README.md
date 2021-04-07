@@ -14,3 +14,4 @@ manage-etc-hosts.sh (For example site domains)
 
 - sudo ./manage-etc-hosts.sh add xxx.brizysite.com
 - sudo ./manage-etc-hosts.sh add xxx.brizysite.com 127.0.0.1
+- sudo ./manage-etc-hosts.sh remove xxx.brizysite.com
